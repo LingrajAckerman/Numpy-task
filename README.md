@@ -1,2 +1,2 @@
 # assignment_2_guvi
-It consists of questions solved 
+It consists of solved questions based on numpy module
